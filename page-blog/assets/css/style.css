@@ -65,6 +65,15 @@ header nav ul li a:hover{
     padding: 350px 0 150px 0;
 }
 
+.blog-buttons dd a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.blog-buttons dd a:hover{
+    color: #5f3c57;
+}
+
 button {
     background-color: transparent;
     border: #fff 2px solid;
